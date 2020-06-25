@@ -1,1 +1,1 @@
-# qzjoj-not-found
+当 QZJOJ 关停维护时会跳转此页面。
